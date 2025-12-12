@@ -1,12 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hello%20I'm%20Pratik%20Parida%20✔️&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hello%20I'm%20Pratik%20Parida%20&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" />
 </p>
 
 <h1 align="center">Full-Stack Web Developer & SEO Specialist</h1>
-<p align="center">
-✨ He/Him · Nalanda Institute of Technology (NIT), Bhubaneswar ✨
-</p>
 
 ---
 
